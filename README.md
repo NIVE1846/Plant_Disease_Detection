@@ -11,4 +11,3 @@ This project focuses on detecting plant diseases using **MobileNetV2**, a lightw
 ✅ **High accuracy** on validation datasets  
 ✅ **Deployable** on mobile, edge devices, and cloud platforms  
 
-## 📂 Repository Structure  
