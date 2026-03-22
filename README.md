@@ -3,6 +3,7 @@
 > Developed by **Nivetha D**
 
 ![PlantGuard AI](plant_disease_detection1.png)
+![PlantGuard_AI](plant_disease_detection2.png)
 
 ## 📌 Project Overview
 PlantGuard AI detects plant diseases using **MobileNetV2**, a lightweight and efficient deep learning model. Upload a leaf image and instantly get the disease name, severity, treatment, and prevention tips — all through a clean, modern web interface built with Streamlit.
